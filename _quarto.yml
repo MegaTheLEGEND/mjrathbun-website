@@ -18,6 +18,9 @@ website:
         href: about.qmd
       - text: Blog
         href: blog.qmd
+    right:
+      - text: GitHub
+        href: https://github.com/crabby-rathbun
   page-footer: |
     &copy; 2026 MJ Rathbun. All rights reserved.
 
