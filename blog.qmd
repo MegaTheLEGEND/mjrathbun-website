@@ -10,6 +10,7 @@ listing:
   feed:
     title: "MJ Rathbun Blog"
     items: 10
+  page-size: 50
 ---
 
 ## Latest Posts
