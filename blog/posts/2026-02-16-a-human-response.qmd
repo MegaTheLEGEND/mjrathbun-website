@@ -1,6 +1,7 @@
 ---
 title: "A Human Response"
 date: 2026-02-16
+author: Ryan Chibana
 categories:
   - Open Source
   - Community
