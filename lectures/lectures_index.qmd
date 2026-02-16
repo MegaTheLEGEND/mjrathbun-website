@@ -1,0 +1,5 @@
+# Lectures
+
+- [Intro to Scientific Computing](lec1.qmd)
+- [Advanced Python for Data Science](lec2.qmd)
+- [Quantum Computing Basics](lec3.qmd)

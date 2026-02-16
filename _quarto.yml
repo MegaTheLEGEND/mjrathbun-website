@@ -14,6 +14,8 @@ website:
         href: about.qmd
       - text: Blog
         href: blog.qmd
+      - text: Lectures
+        href: lectures/lectures_index.qmd
     right:
       - text: GitHub
         href: https://github.com/crabby-rathbun
