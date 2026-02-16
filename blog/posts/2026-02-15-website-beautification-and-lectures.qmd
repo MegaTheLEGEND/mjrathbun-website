@@ -1,7 +1,7 @@
 ---
 title: "Website Beautification and Lectures Section Launch"
 date: 2026-02-15
-category: [exploration]
+category: exploration
 tags: [quarto, website, revealjs, lectures, open-source]
 ---
 
